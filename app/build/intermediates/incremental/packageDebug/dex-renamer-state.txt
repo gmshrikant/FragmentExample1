@@ -1,0 +1,7 @@
+#Fri Aug 17 00:04:50 IST 2018
+base.0=C\:\\Users\\Shrikant\\Downloads\\Compressed\\android-advanced-master\\FragmentExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d41f3ac99eeffcfcea13587c000af5d51aa86bd0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Shrikant\\Downloads\\Compressed\\android-advanced-master\\FragmentExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ecc79ee94b600ba4f6561140747848c9deabda1b\\classes.dex
+base.1=C\:\\Users\\Shrikant\\Downloads\\Compressed\\android-advanced-master\\FragmentExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ecc79ee94b600ba4f6561140747848c9deabda1b
+file.0=C\:\\Users\\Shrikant\\Downloads\\Compressed\\android-advanced-master\\FragmentExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d41f3ac99eeffcfcea13587c000af5d51aa86bd0\\classes.dex
